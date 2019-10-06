@@ -5,3 +5,5 @@ charizord
 Bulbasaur
 
 delibird
+
+taurus
